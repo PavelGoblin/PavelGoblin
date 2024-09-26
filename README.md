@@ -1,49 +1,76 @@
-![I am Web Developer]([ https://1drv.ms/i/s!Akgiw2kJUf3l5jQDT9qF9MFIQwMn?e=JpWrXY](https://www.facebook.com/photo/?fbid=1691656401285522&set=a.239930396458137))
-### Hi there 👋, my name is Pavel
-#### I am Web Developer
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-## About Me
+<h3 align="center">A passionate web developer from BD </h3>
 
-👋 Hi there! I'm Pavel, a passionate software developer with a knack for turning ideas into code. I'm on a lifelong journey to learn, create, and share.
+<br/>
 
-🚀 Here are a few things I'm passionate about:
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **MERN,AI**
 
-- **Programming Languages:** I'm fluent in languages like Python, JavaScript,Java and C, and I'm always eager to explore new ones.
-- **Open Source:** I believe in the power of open-source software and love contributing to and maintaining projects that make a difference.
-- **Web Development:** Front-end, back-end, or full-stack, I enjoy building web applications that are not just functional but user-friendly and visually appealing.
-- **Machine Learning:** I'm fascinated by AI and machine learning and am constantly experimenting with new models and applications.
-- **Continuous Learning:** The tech world evolves rapidly, and I love learning new technologies and best practices.
+💬 Ask me about **Node.js, React, ... or anything [here](https://github.com/PavelGoblin)**
 
-💬 Let's connect! Whether it's collaborating on projects, discussing the latest trends in tech, or just geeking out over code, I'm always open to interesting conversations and collaborations.
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-📫 Feel free to reach out to me on [LinkedIn](https://github.com/PavelGoblin) or [Facebook]( https://www.facebook.com/Ibrahim.Pavel10) to connect and explore the world of software together.
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-⚡ "Code is poetry." Let's create some elegant code together!
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
+<br/>
+<hr/>
 
-Skills:  JS / HTML / CSS
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-- 🔭 I’m currently working on Private Company 
-- 🌱 I’m currently learning JS,Machine Language 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about web development 
+<hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PavelGoblin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Ibrahim.Pavel10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fibrahimpavel.10%3Ffbclid%3DIwAR1__MB7FfzcJt6CGyqx-CA6zBRDSqzthHnvhU1IcOo_aE9wlgJWe0xyi24&h=AT3G9UaE_PMWoc7BLHUpIHl7E-HAZL7oGl0hIoBl0wA3aQKU9afsC-lgivMavmH2uPS_OhRybTU1Ok08nsDAOeXomgTkdg8tFaNjiVqBp2ueVPBVykmW5iDIbBhz6QgixsOn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://l.facebook.com/l.php?u=https%3A%2F%2Ftwitter.com%2FIbrahimPavel3%3Ffbclid%3DIwAR1__MB7FfzcJt6CGyqx-CA6zBRDSqzthHnvhU1IcOo_aE9wlgJWe0xyi24&h=AT367oDbybOyK1UzgiulhgyIfgbebG9e93C-guPAHFYyv45a5OxMGuwd2hSeLlxcm9wmSQfUTvmxL1e4NRC_wdfIywilhKSC4V-B-d-jZJQ1YWqLUudswcmP32wOr2o60wgR)  
+<br/><br/>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<hr/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PavelGoblin)](https://github.com/ryo-ma/github-profile-trophy)
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGoblin)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PavelGoblin&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PavelGoblin)  
-
-![GitHub metrics](https://metrics.lecoq.io/PavelGoblin)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=PavelGoblin)  
-
-![Profile views](https://gpvc.arturio.dev/PavelGoblin)  
+<br/>
