@@ -1,120 +1,86 @@
-<pre align="center">
-██████╗  █████╗ ██╗   ██╗███████╗██╗     ██╗ ██████╗ ███╗   ██╗
-██╔══██╗██╔══██╗██║   ██║██╔════╝██║     ██║██╔═══██╗████╗  ██║
-██████╔╝███████║██║   ██║█████╗  ██║     ██║██║   ██║██╔██╗ ██║
-██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══╝  ██║     ██║██║   ██║██║╚██╗██║
-██║     ██║  ██║ ╚████╔╝ ███████╗███████╗██║╚██████╔╝██║ ╚████║
-╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-</pre>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1200&pause=800&center=true&vCenter=true&width=550&height=60&color=00FF88&lines=root%40pavelion%3A~%24+whoami;Ibrahim+Pavel+%7C+AI+%2F+ML+Engineer;root%40pavelion%3A~%24+cat+%2Fetc%2Frole;Cybersecurity+%7C+Deep+Learning+%7C+OSINT;root%40pavelion%3A~%24+./build.sh;Building+the+future+one+model+at+a+time" alt="Terminal Typing" />
-</p>
-
-<p align="center">
-  <code>root@pavelion:~$</code> <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=flat-square" /> <img src="https://img.shields.io/badge/UPTIME-24%2F7-6C63FF?style=flat-square" /> <img src="https://img.shields.io/badge/MODE-OPERATOR-FF4444?style=flat-square" />
-</p>
-
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
-
 <pre>
-┌──(pavelion㉿kali)-[~]
-└─$ cat /etc/passwd | grep -A 20 "ibrahim"
+  ██████   █████  ██    ██ ███████ ██      ██  ██████  ███    ██
+  ██   ██ ██   ██ ██    ██ ██      ██      ██ ██    ██ ████   ██
+  ██████  ███████ ██    ██ █████   ██      ██ ██    ██ ██ ██  ██
+  ██      ██   ██  ██  ██  ██      ██      ██ ██    ██ ██  ██ ██
+  ██      ██   ██   ████   ███████ ███████ ██  ██████  ██   ████
 </pre>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=1500&pause=1000&center=true&vCenter=true&width=550&height=60&color=00FF88&lines=%24+whoami;Ibrahim+Pavel+%7C+AI+Engineer;%24+cat+role;Cybersecurity+%7C+ML+%7C+DL;%24+./build.sh;Building+the+future" alt="Terminal" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=flat-square" />
+  <img src="https://img.shields.io/badge/UPTIME-24%2F7-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/MODE-OPERATOR-FF4444?style=flat-square" />
+</p>
+
+---
 
 ```yaml
-[PASSWD]
+$ cat /etc/profile
+
 name: Ibrahim Pavel
 alias: Pavelyon
 role: AI / ML Engineer
 location: Dhaka, Bangladesh
-languages: [Python, SQL, Bash, C]
+
+specialties:
+  - Machine & Deep Learning
+  - Cybersecurity & Ethical Hacking
+  - Computer Vision (OpenCV)
+  - NLP & Language Models
+  - Model Deployment & APIs
+
+status: OPEN TO COLLAB 🚀
 ```
 
-<pre>
-┌──(pavelion㉿kali)-[~]
-└─$ cat /etc/specialties
-</pre>
+---
 
-```yaml
-[SPECIALTIES]
-- Machine & Deep Learning
-- Cybersecurity & Ethical Hacking
-- Computer Vision (OpenCV)
-- NLP & Language Models
-- Model Deployment & APIs
-```
-
-<pre>
-┌──(pavelion㉿kali)-[~]
-└─$ cat /etc/status
-</pre>
-
-```yaml
-[STATUS]
-learning: [Production ML, Neural Architectures, Pentesting]
-collab: OPEN 🚀
-```
-
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
-
-<pre>
-┌──(pavelion㉿kali)-[~/projects]
-└─$ ls -la
-</pre>
+### $ ls ~/projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 data-science-mastery/</h3>
+      <h3 align="center">data-science-mastery/</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/70%2B_notebooks-00FF88?style=flat-square" />
         <img src="https://img.shields.io/badge/50%2B_projects-6C63FF?style=flat-square" />
       </p>
-      <pre align="center">Python ➔ Pandas ➔ ML ➔ DL ➔ SHAP ➔ Docker</pre>
+      <p align="center">Python → Pandas → ML → DL → SHAP → Docker</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/data-science-mastery">
-          <img src="https://img.shields.io/badge/▸_VIEW_REPO-00FF88?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-00FF88?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ project_alpha/</h3>
+      <h3 align="center">project_alpha/</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/BUILDING-FF4444?style=flat-square" />
         <img src="https://img.shields.io/badge/ETA-2026-FFB800?style=flat-square" />
       </p>
-      <pre align="center">AI + Cyber tool — stealth mode</pre>
+      <p align="center"><em>AI + Cyber tool (stealth mode)</em></p>
       <p align="center">
-        <img src="https://img.shields.io/badge/▸_CLASSIFIED-333333?style=for-the-badge&logo=github&logoColor=666" />
+        <img src="https://img.shields.io/badge/>_CLASSIFIED-333333?style=for-the-badge&logo=github&logoColor=666" />
       </p>
     </td>
   </tr>
 </table>
 
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
+---
 
-<pre>
-┌──(pavelion㉿kali)-[~]
-└─$ neofetch --tech
-</pre>
+### $ neofetch --tech
 
 <details open>
 <summary><b>AI / ML Stack</b></summary>
 
 ```python
-import numpy as np
 import tensorflow as tf
 import torch
-from sklearn import svm, ensemble, preprocessing
+from sklearn import ensemble
 import xgboost as xgb
-from transformers import pipeline
 ```
 
 <p align="center">
@@ -139,7 +105,7 @@ msfconsole -q
 </details>
 
 <details open>
-<summary><b>DevOps & Infrastructure</b></summary>
+<summary><b>DevOps & Infra</b></summary>
 
 ```dockerfile
 FROM python:3.11
@@ -153,14 +119,9 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 <p align="center">Docker • Git • GitHub Actions • MongoDB • PostgreSQL</p>
 </details>
 
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
+---
 
-<pre>
-┌──(pavelion㉿kali)-[~]
-└─$ curl -s https://api.github.com/users/PavelGoblin/stats | jq .
-</pre>
+### $ curl api.github.com/users/PavelGoblin/stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PavelGoblin&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=6C63FF&text_color=FFFFFF" width="49%" />
@@ -179,14 +140,9 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
   <img src="https://github-profile-trophy.vercel.app/?username=PavelGoblin&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
 </p>
 
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
+---
 
-<pre>
-┌──(pavelion㉿kali)-[~]
-└─$ ss -tulpn | grep -E "github|linkedin|devto"
-</pre>
+### $ ss -tulpn | grep connect
 
 <p align="center">
   <a href="https://github.com/PavelGoblin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
@@ -198,17 +154,12 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 </p>
 
 <p align="center">
-  <code>📧 hello@pavel.dev  |  💬 Discord: pavelyon  |  🐦 @PavelionX</code>
+  📧 hello@pavel.dev  |  💬 Discord: pavelyon
 </p>
 
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
+---
 
-<pre>
-┌──(pavelion㉿kali)-[~]
-└─$ systemctl status contribution-grid
-</pre>
+### $ systemctl status contribution-grid
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
@@ -218,10 +169,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
   <img src="https://api.vaunt.dev/v1/github/entities/PavelGoblin/contributions?format=svg&private=true" width="100%" />
 </p>
 
-<pre align="center">
-────────────────────────────────────────────────────────────────
-</pre>
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=40&color=00FF88&lines=$+./deploy.sh+--mode=continue;Deplying+code...+secure...+innovate...;$+echo+'Always+learning,+always+building';[SUCCESS]+Transmission+complete." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=40&color=00FF88&lines=%24+./deploy.sh;Deploying...+code...+secure...+innovate;%24+echo+'Always+learning';%24+echo+'Always+building';[SUCCESS]+Transmission+complete" />
 </p>
