@@ -1,29 +1,9 @@
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   █████╗ ██╗     ███╗   ███╗██╗     ███████╗ █████╗ ██████╗ ███╗   ██╗
-║  ██╔══██╗██║     ████╗ ████║██║     ██╔════╝██╔══██╗██╔══██╗████╗  ██║
-║  ███████║██║     ██╔████╔██║██║     █████╗  ███████║██████╔╝██╔██╗ ██║
-║  ██╔══██║██║     ██║╚██╔╝██║██║     ██╔══╝  ██╔══██║██╔══██╗██║╚██╗██║
-║  ██║  ██║███████╗██║ ╚═╝ ██║███████╗███████╗██║  ██║██║  ██║██║ ╚████║
-║  ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-║                                                              ║
-║                ██████╗ █████╗ ██╗   ██╗███████╗██╗         ║
-║                ██╔══██╗██╔══██╗██║   ██║██╔════╝██║         ║
-║                ██████╔╝███████║██║   ██║█████╗  ██║         ║
-║                ██╔═══╝ ██╔══██║╚██╗ ██╔╝██╔══╝  ██║         ║
-║                ██║     ██║  ██║ ╚████╔╝ ███████╗███████╗    ║
-║                ╚═╝     ╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚══════╝    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=800&center=true&vCenter=true&width=500&height=40&color=00FF88&lines=AI+%2F+ML+Engineer;Cybersecurity+Researcher;Full-Stack+Data+Scientist;Always+Learning+%E2%89%A1+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=1500&pause=1000&center=true&vCenter=true&width=500&height=80&color=00FF88&lines=IBRAHIM+PAVEL;AI+%2F+ML+Engineer;Cybersecurity+Researcher;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <code>[SYSTEM]  ▸  Status: ACTIVE  ▸  Focus: AI/ML/Cyber  ▸  Uptime: 24/7</code>
+  <code>[SYSTEM] ▸ Status: ACTIVE ▸ Focus: AI/ML/Cyber ▸ Uptime: 24/7</code>
 </p>
 
 <p align="center">
@@ -37,73 +17,50 @@
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                       // SYSTEM INFO //                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 ```yaml
 name: Ibrahim Pavel
 alias: Pavelyon
 role: "AI / ML Engineer"
 location: "Dhaka, Bangladesh"
-languages:
-  - Python
-  - SQL
-  - Bash
-  - C (basics)
+languages: [Python, SQL, Bash, C]
 specialties:
   - Machine & Deep Learning
   - Cybersecurity & Ethical Hacking
   - Computer Vision (OpenCV)
   - NLP & LLMs
   - Model Deployment & APIs
-currently_learning:
-  - Production-grade ML pipelines
-  - Advanced neural architectures
-  - Network penetration testing
+currently_learning: [ML pipelines, Neural architectures, Pentesting]
 status: "OPEN TO COLLAB 🚀"
 ```
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    // PROJECT LAUNCHER //                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🧠 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Data Science Mastery</h3>
+      <h3 align="center">Data Science Mastery</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/70%2B_Notebooks-00FF88?style=flat-square" />
         <img src="https://img.shields.io/badge/50%2B_Projects-6C63FF?style=flat-square" />
       </p>
-      <p align="center"><code>Complete data science curriculum with Colab support</code></p>
-      <p align="center">
-        <code>Python ➔ Pandas ➔ ML ➔ DL ➔ SHAP ➔ Docker ➔ Deploy</code>
-      </p>
+      <p align="center"><code>Python ➔ Pandas ➔ ML ➔ DL ➔ SHAP ➔ Docker ➔ Deploy</code></p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/data-science-mastery">
-          <img src="https://img.shields.io/badge/▶_RUN_PROJECT-00FF88?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/▸_REPO-00FF88?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛡️ Project_Alpha</h3>
+      <h3 align="center">Project Alpha 🛡️</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/BUILDING-FF4444?style=flat-square" />
         <img src="https://img.shields.io/badge/ETA-2026-FFB800?style=flat-square" />
       </p>
-      <p align="center"><code>Next-gen AI + Cyber tool (stealth mode 👻)</code></p>
+      <p align="center"><em>Next-gen AI + Cyber tool (stealth mode)</em></p>
       <p align="center">
-        <code>_____________________________</code>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/▶_CLASSIFIED-333333?style=for-the-badge&logo=github&logoColor=666" />
+        <img src="https://img.shields.io/badge/▸_CLASSIFIED-333333?style=for-the-badge&logo=github&logoColor=666" />
       </p>
     </td>
   </tr>
@@ -111,68 +68,44 @@ status: "OPEN TO COLLAB 🚀"
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                   // TECH_STACK.EXE //                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🛠️ Tech Stack
 
 <details open>
-<summary><code>▶ ARTIFICIAL_INTELLIGENCE_AND_ML/</code></summary>
+<summary><b>AI / ML</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark" />
 </p>
 <p align="center">
-  <code>TensorFlow</code> •
-  <code>PyTorch</code> •
-  <code>scikit-learn</code> •
-  <code>OpenCV</code> •
-  <code>FastAPI</code> •
-  <code>XGBoost</code> •
-  <code>Keras</code> •
-  <code>HuggingFace</code>
+  TensorFlow • PyTorch • scikit-learn • OpenCV • FastAPI • XGBoost • Keras • HuggingFace
 </p>
 </details>
 
 <details open>
-<summary><code>▶ CYBERSECURITY_TOOLS/</code></summary>
+<summary><b>Cybersecurity</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,py&theme=dark" />
 </p>
 <p align="center">
-  <code>Kali Linux</code> •
-  <code>Wireshark</code> •
-  <code>Nmap</code> •
-  <code>Metasploit</code> •
-  <code>Burp Suite</code>
+  Kali Linux • Wireshark • Nmap • Metasploit • Burp Suite
 </p>
 </details>
 
 <details open>
-<summary><code>▶ DEVOPS_AND_INFRA/</code></summary>
+<summary><b>DevOps & Infra</b></summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,mongodb,postgres&theme=dark" />
 </p>
 <p align="center">
-  <code>Docker</code> •
-  <code>Git</code> •
-  <code>GitHub Actions</code> •
-  <code>VS Code</code> •
-  <code>MongoDB</code> •
-  <code>PostgreSQL</code>
+  Docker • Git • GitHub Actions • VS Code • MongoDB • PostgreSQL
 </p>
 </details>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    // LIVE_STATISTICS //                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PavelGoblin&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=6C63FF&text_color=FFFFFF&border_radius=8" width="49%" />
@@ -184,20 +117,16 @@ status: "OPEN TO COLLAB 🚀"
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PavelGoblin&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavelGoblin&bg_color=0D1117&color=00FF88&line=6C63FF&point=FFFFFF&area=true&area_color=00FF88&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PavelGoblin&bg_color=0D1117&color=00FF88&line=6C63FF&point=FFFFFF&area=true&area_color=00FF88&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PavelGoblin&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
 </p>
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  // CONNECTION_PORTAL //                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🔗 Connect
 
 <p align="center">
   <a href="https://github.com/PavelGoblin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00FF88" /></a>
@@ -214,20 +143,10 @@ status: "OPEN TO COLLAB 🚀"
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    // CONTRIBUTION_GRID //                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🐍 Contribution Grid
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=500&center=true&vCenter=true&width=400&height=30&color=00FF88&lines=$+echo+'Always+learning,+always+building...';$+echo+'Code.+Secure.+Innovate.'" />
 </p>
 
 <p align="center">
@@ -235,11 +154,9 @@ status: "OPEN TO COLLAB 🚀"
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PavelGoblin&style=for-the-badge&color=00FF88&label=TERMINAL+SESSIONS" />
+  <img src="https://komarev.com/ghpvc/?username=PavelGoblin&style=for-the-badge&color=00FF88&label=PROFILE+VIEWS" />
 </p>
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                  // END_OF_TRANSMISSION //                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=500&center=true&vCenter=true&width=400&height=30&color=00FF88&lines=$+echo+'Always+learning,+always+building...';$+echo+'Code.+Secure.+Innovate.'" />
+</p>
