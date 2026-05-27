@@ -1,0 +1,63 @@
+name: Update Recently Active Repos
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate recent repos section
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const repos = await github.rest.repos.listForUser({
+              username: 'PavelGoblin',
+              sort: 'pushed',
+              direction: 'desc',
+              per_page: 8,
+              type: 'owner'
+            });
+
+            const cutoff = new Date();
+            cutoff.setDate(cutoff.getDate() - 30);
+
+            const recent = repos.data
+              .filter(r => !r.fork && new Date(r.pushed_at) > cutoff)
+              .slice(0, 6);
+
+            let table = '<table>\n<tr>\n';
+            recent.forEach((r, i) => {
+              const desc = (r.description || '').substring(0, 40);
+              const lang = r.language || '';
+              table += `  <td align="center" width="33%">\n`;
+              table += `    <a href="${r.html_url}"><b>${r.name}</b></a>\n`;
+              table += `    <br/><sub>${desc}</sub>\n`;
+              table += `    <br/><img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-555?style=flat-square"/>\n`;
+              table += `    <br/><sub>${r.pushed_at.substring(0, 10)}</sub>\n`;
+              table += `  </td>\n`;
+              if ((i + 1) % 3 === 0 && i < recent.length - 1) {
+                table += '</tr>\n<tr>\n';
+              }
+            });
+            table += '</tr>\n</table>';
+
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!--RECENT_REPOS_START-->[\s\S]*?<!--RECENT_REPOS_END-->/,
+              `<!--RECENT_REPOS_START-->\n${table}\n<!--RECENT_REPOS_END-->`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "chore: update recently active repos"
+          git push
