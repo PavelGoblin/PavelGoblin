@@ -14,72 +14,74 @@ jobs:
       - name: Generate recent repos section
         uses: actions/github-script@v7
         with:
-          with:
-            script: |
-              const repos = await github.rest.repos.listForUser({
-                username: 'PavelGoblin',
-                sort: 'pushed',
-                direction: 'desc',
-                per_page: 50,
-                type: 'owner'
-              });
+          script: |
+            const repos = await github.rest.repos.listForUser({
+              username: 'PavelGoblin',
+              sort: 'pushed',
+              direction: 'desc',
+              per_page: 50,
+              type: 'owner'
+            });
 
-              const cutoff = new Date();
-              cutoff.setDate(cutoff.getDate() - 30);
+            const cutoff = new Date();
+            cutoff.setDate(cutoff.getDate() - 30);
 
-              const isMLorPython = (r) => {
-                const name = (r.name || '').toLowerCase();
-                const desc = (r.description || '').toLowerCase();
-                const lang = (r.language || '').toLowerCase();
-                const topics = (r.topics || []).map(t => t.toLowerCase());
-                const keywords = ['python', 'ml', 'machine-learning', 'deep-learning', 'data-science',
-                  'ai', 'tensorflow', 'pytorch', 'sklearn', 'nlp', 'jupyter', 'data',
-                  'neural', 'model', 'dataset', 'classification', 'regression'];
-                const allText = name + ' ' + desc + ' ' + lang + ' ' + topics.join(' ');
-                return keywords.some(k => allText.includes(k));
-              };
+            const isMLorPython = (r) => {
+              const name = (r.name || '').toLowerCase();
+              const desc = (r.description || '').toLowerCase();
+              const lang = (r.language || '').toLowerCase();
+              const topics = (r.topics || []).map(t => t.toLowerCase());
+              const keywords = ['python', 'ml', 'machine-learning', 'deep-learning', 'data-science',
+                'ai', 'tensorflow', 'pytorch', 'sklearn', 'nlp', 'jupyter', 'data',
+                'neural', 'model', 'dataset', 'classification', 'regression'];
+              const allText = `${name} ${desc} ${lang} ${topics.join(' ')}`;
+              return keywords.some(k => allText.includes(k));
+            };
 
-              const recent = repos.data
-                .filter(r => !r.fork && new Date(r.pushed_at) > cutoff);
+            const recent = repos.data.filter(r => !r.fork && new Date(r.pushed_at) > cutoff);
 
-              // Sort: ML/Python repos first, then by pushed_at
-              recent.sort((a, b) => {
-                const aML = isMLorPython(a);
-                const bML = isMLorPython(b);
-                if (aML && !bML) return -1;
-                if (!aML && bML) return 1;
-                return new Date(b.pushed_at) - new Date(a.pushed_at);
-              });
+            recent.sort((a, b) => {
+              const aML = isMLorPython(a);
+              const bML = isMLorPython(b);
+              if (aML && !bML) return -1;
+              if (!aML && bML) return 1;
+              return new Date(b.pushed_at) - new Date(a.pushed_at);
+            });
 
-              const top = recent.slice(0, 6);
+            const top = recent.slice(0, 6);
+            let table = '<table>\n<tr>\n';
 
-              let table = '<table>\n<tr>\n';
-              top.forEach((r, i) => {
-                const desc = (r.description || '').substring(0, 40);
-                const lang = r.language || '';
-                const isML = isMLorPython(r);
-                const badge = isML
-                  ? `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-00FF88?style=flat-square"/>`
-                  : `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-555?style=flat-square"/>`;
-                table += `  <td align="center" width="33%">\n`;
-                table += `    <a href="${r.html_url}"><b>${r.name}</b></a>\n`;
-                table += `    <br/><sub>${desc}</sub>\n`;
-                table += `    <br/>${badge}\n`;
-                table += `    <br/><sub>${r.pushed_at.substring(0, 10)}</sub>\n`;
-                table += `  </td>\n`;
-                if ((i + 1) % 3 === 0 && i < top.length - 1) {
-                  table += '</tr>\n<tr>\n';
-                }
-              });
-              table += '</tr>\n</table>';
+            top.forEach((r, i) => {
+              const desc = (r.description || '').substring(0, 40);
+              const lang = r.language || '';
+              const badge = isMLorPython(r)
+                ? `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-00FF88?style=flat-square"/>`
+                : `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-555?style=flat-square"/>`;
+              table += `  <td align="center" width="33%">\n`;
+              table += `    <a href="${r.html_url}"><b>${r.name}</b></a>\n`;
+              table += `    <br/><sub>${desc}</sub>\n`;
+              table += `    <br/>${badge}\n`;
+              table += `    <br/><sub>${r.pushed_at.substring(0, 10)}</sub>\n`;
+              table += `  </td>\n`;
+              if ((i + 1) % 3 === 0 && i < top.length - 1) {
+                table += '</tr>\n<tr>\n';
+              }
+            });
 
-              const fs = require('fs');
-              let readme = fs.readFileSync('README.md', 'utf8');
-              readme = readme.replace(
-                /<!--RECENT_REPOS_START-->[\s\S]*?<!--RECENT_REPOS_END-->/,
-                `<!--RECENT_REPOS_START-->\n${table}\n<!--RECENT_REPOS_END-->`
-              );
-              fs.writeFileSync('README.md', readme);.github.com"
+            table += '</tr>\n</table>';
+
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+            readme = readme.replace(
+              /<!--RECENT_REPOS_START-->[\s\S]*?<!--RECENT_REPOS_END-->/,
+              `<!--RECENT_REPOS_START-->\n${table}\n<!--RECENT_REPOS_END-->`
+            );
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --staged --quiet || git commit -m "chore: update recently active repos"
           git push
