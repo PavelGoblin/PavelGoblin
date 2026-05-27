@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=flat-square" />
   <img src="https://img.shields.io/badge/UPTIME-24%2F7-6C63FF?style=flat-square" />
   <img src="https://img.shields.io/badge/MODE-OPERATOR-FF4444?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=PavelGoblin&style=flat-square&color=00FF88&label=PROFILE+VIEWS" />
 </p>
 
 ---
@@ -32,42 +33,109 @@ specialties:
   - Computer Vision (OpenCV)
   - NLP & Language Models
   - Model Deployment & APIs
+  - Full-Stack Development
 
 status: OPEN TO COLLAB 🚀
 ```
 
 ---
 
-### $ ls ~/projects
+### $ ls ~/projects --featured
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">data-science-mastery/</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/70%2B_notebooks-00FF88?style=flat-square" />
-        <img src="https://img.shields.io/badge/50%2B_projects-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/30%2B_notebooks-00FF88?style=flat-square" />
+        <img src="https://img.shields.io/badge/10_projects-6C63FF?style=flat-square" />
       </p>
-      <p align="center">Python → Pandas → ML → DL → SHAP → Docker</p>
+      <p align="center">ML • DL • NLP • SHAP • Docker</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/data-science-mastery">
           <img src="https://img.shields.io/badge/>_VIEW_REPO-00FF88?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">project_alpha/</h3>
+    <td width="33%" valign="top">
+      <h3 align="center">agenticshield/</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/BUILDING-FF4444?style=flat-square" />
-        <img src="https://img.shields.io/badge/ETA-2026-FFB800?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI+Security-FF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/Claude_API-6C63FF?style=flat-square" />
       </p>
-      <p align="center"><em>AI + Cyber tool (stealth mode)</em></p>
+      <p align="center">Next.js • TypeScript • Anthropic • 5-Step Wizard</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/>_CLASSIFIED-333333?style=for-the-badge&logo=github&logoColor=666" />
+        <a href="https://github.com/PavelGoblin/agenticshield">
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-FF4444?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">perfect_C/</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C+Mastery-00AAFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live_Site-FFB800?style=flat-square" />
+      </p>
+      <p align="center">C Programming • Education • Web</p>
+      <p align="center">
+        <a href="https://github.com/PavelGoblin/perfect_C">
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-00AAFF?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">ml-for-beginners-bangla/</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Bangla-Bengali-00FF88?style=flat-square" />
+        <img src="https://img.shields.io/badge/ML+from+Scratch-FFB800?style=flat-square" />
+      </p>
+      <p align="center">Machine Learning in Bengali Language</p>
+      <p align="center">
+        <a href="https://github.com/PavelGoblin/ml-for-beginners-bangla">
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-FFB800?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Monster-Python/</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-Foundation-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/A-Z-00FF88?style=flat-square" />
+      </p>
+      <p align="center">Comprehensive Python Learning Journey</p>
+      <p align="center">
+        <a href="https://github.com/PavelGoblin/Monster-Python">
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-3776AB?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">computer-graphics-lab/</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-OpenGL-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Graphics-6C63FF?style=flat-square" />
+      </p>
+      <p align="center">Computer Graphics with OpenGL & C++</p>
+      <p align="center">
+        <a href="https://github.com/PavelGoblin/computer-graphics-lab">
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-00599C?style=for-the-badge&logo=github&logoColor=black" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+### $ echo "Currently Building"
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀_AI_Agent_Security_Auditor-In_Progress-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_ML_in_Bangla_Series-Active-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Data_Science_Mastery-Expanding-FFB800?style=for-the-badge" />
+</p>
 
 ---
 
@@ -86,7 +154,7 @@ import xgboost as xgb
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,fastapi&theme=dark" />
 </p>
-<p align="center">TensorFlow • PyTorch • scikit-learn • OpenCV • FastAPI • XGBoost • Keras</p>
+<p align="center">TensorFlow • PyTorch • scikit-learn • OpenCV • FastAPI • XGBoost • Keras • Hugging Face</p>
 </details>
 
 <details open>
@@ -101,7 +169,7 @@ msfconsole -q
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,bash,py&theme=dark" />
 </p>
-<p align="center">Kali • Wireshark • Nmap • Metasploit • Burp Suite</p>
+<p align="center">Kali Linux • Wireshark • Nmap • Metasploit • Burp Suite • John the Ripper</p>
 </details>
 
 <details open>
@@ -114,9 +182,18 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,mongodb,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,mongodb,postgres,vercel&theme=dark" />
 </p>
-<p align="center">Docker • Git • GitHub Actions • MongoDB • PostgreSQL</p>
+<p align="center">Docker • Git • GitHub Actions • MongoDB • PostgreSQL • Vercel • Railway</p>
+</details>
+
+<details open>
+<summary><b>Languages & Tools</b></summary>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,react,nodejs,java,cs,mysql,sqlite&theme=dark" />
+</p>
+<p align="center">Python • C • C++ • JavaScript • TypeScript • React • Node.js • Java • C# • SQL</p>
 </details>
 
 ---
@@ -142,6 +219,25 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 
 ---
 
+### $ cat /proc/repo-stats
+
+<p align="center">
+  <a href="https://github.com/PavelGoblin?tab=repositories">
+    <img src="https://img.shields.io/badge/Total_Repos-96+-00FF88?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/PavelGoblin?tab=repositories&type=source">
+    <img src="https://img.shields.io/badge/Python-21_repos-3776AB?style=for-the-badge&logo=python" />
+  </a>
+  <a href="https://github.com/PavelGoblin?tab=repositories">
+    <img src="https://img.shields.io/badge/ML_DS-6_repos-FF6F00?style=for-the-badge&logo=tensorflow" />
+  </a>
+  <a href="https://github.com/PavelGoblin?tab=repositories&q=html+css">
+    <img src="https://img.shields.io/badge/Web_Dev-30%2B_repos-E34F26?style=for-the-badge&logo=html5" />
+  </a>
+</p>
+
+---
+
 ### $ ss -tulpn | grep connect
 
 <p align="center">
@@ -154,7 +250,7 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 </p>
 
 <p align="center">
-  📧 hello@pavel.dev  |  💬 Discord: pavelyon
+  📧 hello@pavel.dev  |  💬 Discord: pavelyon  |  🌐 <a href="https://perfect-c.vercel.app">perfect-c.vercel.app</a>
 </p>
 
 ---
@@ -168,6 +264,28 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 <p align="center">
   <img src="https://api.vaunt.dev/v1/github/entities/PavelGoblin/contributions?format=svg&private=true" width="100%" />
 </p>
+
+---
+
+### $ ls ~/learning
+
+<details>
+<summary><b>Click to expand my learning repositories</b></summary>
+
+<br />
+
+| Repository | Category | Language |
+|:-----------|:---------|:---------|
+| [data-science-mastery](https://github.com/PavelGoblin/data-science-mastery) | Data Science / ML | Jupyter / Python |
+| [ml-for-beginners-bangla](https://github.com/PavelGoblin/ml-for-beginners-bangla) | ML in Bengali | Jupyter / Python |
+| [ml-bangla](https://github.com/PavelGoblin/ml-bangla) | ML in Bengali | Jupyter |
+| [Monster-Python](https://github.com/PavelGoblin/Monster-Python) | Python A-Z | Python |
+| [perfect_C](https://github.com/PavelGoblin/perfect_C) | C Programming | C / HTML |
+| [Data-Structures-Algorithms](https://github.com/PavelGoblin/Data-Structures-Algorithms) | DSA | JavaScript |
+| [ielts-mastery-pro](https://github.com/PavelGoblin/ielts-mastery-pro) | IELTS Prep | HTML |
+| [sql-hsc](https://github.com/PavelGoblin/sql-hsc) | SQL Database | SQL |
+
+</details>
 
 ---
 
