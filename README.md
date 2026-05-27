@@ -127,9 +127,14 @@ status: OPEN TO COLLAB 🚀
   </tr>
 </table>
 
----
 
-### $ echo "Currently Building"
+### $ echo "Recently Active (last 30 days)"
+
+<!--RECENT_REPOS_START-->
+<!--RECENT_REPOS_END-->
+
+---
+### $ echo "Currently Building""
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀_AI_Agent_Security_Auditor-In_Progress-00FF88?style=for-the-badge" />
