@@ -1,0 +1,28 @@
+name: GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: Generate stats images
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=hpnightowl&show_icons=true&theme=radical" -o stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=hpnightowl&layout=compact&theme=radical" -o top-langs.svg
+          curl -s "https://streak-stats.demolab.com/?user=hpnightowl&theme=radical" -o streak.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --staged --quiet || git commit -m "chore: update stats cards"
+          git push
