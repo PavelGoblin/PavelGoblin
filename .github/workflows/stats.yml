@@ -5,19 +5,29 @@ on:
     - cron: "0 0 * * 0"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: output
+
+      - name: Switch to output branch
+        run: |
+          if git fetch origin output 2>/dev/null; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf .
+          fi
 
       - name: Generate stats images
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=hpnightowl&show_icons=true&theme=radical" -o stats.svg
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=hpnightowl&layout=compact&theme=radical" -o top-langs.svg
-          curl -s "https://streak-stats.demolab.com/?user=hpnightowl&theme=radical" -o streak.svg
+          curl -s "https://github-readme-stats.vercel.app/api?username=PavelGoblin&show_icons=true&theme=radical" -o stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGoblin&layout=compact&theme=radical" -o top-langs.svg
+          curl -s "https://streak-stats.demolab.com/?user=PavelGoblin&theme=radical" -o streak.svg
 
       - name: Commit and push
         run: |
