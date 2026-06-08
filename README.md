@@ -131,6 +131,48 @@ status: OPEN TO COLLAB 🚀
 ### $ echo "Recently Active (last 30 days)"
 
 <!--RECENT_REPOS_START-->
+<table>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/presentation"><b>presentation</b></a>
+    <br/><sub>Web Engineering - Cookies & Sessions Int</sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-05</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/ielts"><b>ielts</b></a>
+    <br/><sub></sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-02</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/cybersecurity-book-bangla"><b>cybersecurity-book-bangla</b></a>
+    <br/><sub>সাইবার নিরাপত্তা: শূন্য থেকে চাকরি — একট</sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-01</sub>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/bangla-cyber"><b>bangla-cyber</b></a>
+    <br/><sub></sub>
+    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
+    <br/><sub>2026-05-31</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/secforge-toolkit"><b>secforge-toolkit</b></a>
+    <br/><sub></sub>
+    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
+    <br/><sub>2026-05-31</sub>
+  </td>
+  <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/secforge"><b>secforge</b></a>
+    <br/><sub></sub>
+    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
+    <br/><sub>2026-05-31</sub>
+  </td>
+</tr>
+</table>
 <!--RECENT_REPOS_END-->
 
 ---
