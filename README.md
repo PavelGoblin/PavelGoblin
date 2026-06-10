@@ -73,15 +73,16 @@ status: OPEN TO COLLAB 🚀
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Monster-Python/</h3>
+      <h3 align="center">academics/</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-Foundation-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/A-Z-00FF88?style=flat-square" />
+        <img src="https://img.shields.io/badge/OOP-C++-00599C?style=flat-square" />
+        <img src="https://img.shields.io/badge/DSA-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Distributed-FF4444?style=flat-square" />
       </p>
-      <p align="center">Comprehensive Python Learning Journey</p>
+      <p align="center">University • OOP • DSA • Distributed Systems • Graphics</p>
       <p align="center">
-        <a href="https://github.com/PavelGoblin/Monster-Python">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-3776AB?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/PavelGoblin/academics">
+          <img src="https://img.shields.io/badge/>_VIEW_HUB-FF4444?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -114,15 +115,15 @@ status: OPEN TO COLLAB 🚀
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">computer-graphics-lab/</h3>
+      <h3 align="center">academics/computer-graphics</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C%2B%2B-OpenGL-00599C?style=flat-square" />
         <img src="https://img.shields.io/badge/Graphics-6C63FF?style=flat-square" />
       </p>
       <p align="center">Computer Graphics with OpenGL & C++</p>
       <p align="center">
-        <a href="https://github.com/PavelGoblin/computer-graphics-lab">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-00599C?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/PavelGoblin/academics/tree/main/computer-graphics">
+          <img src="https://img.shields.io/badge/>_VIEW_HUB-00599C?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -327,8 +328,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 |:-----------|:---------|:---------|
 | [career-hub](https://github.com/PavelGoblin/career-hub) | AI/ML, Cyber, IELTS | Python / Jupyter / HTML |
 | [student-hub](https://github.com/PavelGoblin/student-hub) | HSC ICT, Programming | Python / C / HTML / SQL |
+| [academics](https://github.com/PavelGoblin/academics) | University, OOP, DSA, Graphics | C++ / Java / C# / Python |
 | [Monster-Python](https://github.com/PavelGoblin/Monster-Python) | Python A-Z | Python |
-| [Data-Structures-Algorithms](https://github.com/PavelGoblin/Data-Structures-Algorithms) | DSA | JavaScript |
 
 </details>
 
