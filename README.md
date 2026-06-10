@@ -45,56 +45,58 @@ status: OPEN TO COLLAB 🚀
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">data-science-mastery/</h3>
+      <h3 align="center">career-hub/ai-ml</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/30%2B_notebooks-00FF88?style=flat-square" />
-        <img src="https://img.shields.io/badge/10_projects-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI%2FML-00FF88?style=flat-square" />
+        <img src="https://img.shields.io/badge/Cyber-FF4444?style=flat-square" />
+        <img src="https://img.shields.io/badge/IELTS-6C63FF?style=flat-square" />
       </p>
-      <p align="center">ML • DL • NLP • SHAP • Docker</p>
+      <p align="center">Data Science • ML • Cybersecurity • IELTS</p>
       <p align="center">
-        <a href="https://github.com/PavelGoblin/data-science-mastery">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-00FF88?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/PavelGoblin/career-hub">
+          <img src="https://img.shields.io/badge/>_VIEW_HUB-00FF88?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">agenticshield/</h3>
+      <h3 align="center">student-hub/</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI+Security-FF4444?style=flat-square" />
-        <img src="https://img.shields.io/badge/Claude_API-6C63FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/C-00AAFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQL-FFB800?style=flat-square" />
       </p>
-      <p align="center">Next.js • TypeScript • Anthropic • 5-Step Wizard</p>
+      <p align="center">HSC ICT • Programming • Web</p>
       <p align="center">
-        <a href="https://github.com/PavelGoblin/agenticshield">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-FF4444?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/PavelGoblin/student-hub">
+          <img src="https://img.shields.io/badge/>_VIEW_HUB-FFB800?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">perfect_C/</h3>
+      <h3 align="center">Monster-Python/</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/C+Mastery-00AAFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Live_Site-FFB800?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-Foundation-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/A-Z-00FF88?style=flat-square" />
       </p>
-      <p align="center">C Programming • Education • Web</p>
+      <p align="center">Comprehensive Python Learning Journey</p>
       <p align="center">
-        <a href="https://github.com/PavelGoblin/perfect_C">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-00AAFF?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/PavelGoblin/Monster-Python">
+          <img src="https://img.shields.io/badge/>_VIEW_REPO-3776AB?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">ml-for-beginners-bangla/</h3>
+      <h3 align="center">career-hub/ml-bangla</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Bangla-Bengali-00FF88?style=flat-square" />
         <img src="https://img.shields.io/badge/ML+from+Scratch-FFB800?style=flat-square" />
       </p>
       <p align="center">Machine Learning in Bengali Language</p>
       <p align="center">
-        <a href="https://github.com/PavelGoblin/ml-for-beginners-bangla">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-FFB800?style=for-the-badge&logo=github&logoColor=black" />
+        <a href="https://github.com/PavelGoblin/career-hub/tree/main/ai-ml/ml-for-beginners-bangla">
+          <img src="https://img.shields.io/badge/>_VIEW_HUB-FFB800?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -323,14 +325,10 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 
 | Repository | Category | Language |
 |:-----------|:---------|:---------|
-| [data-science-mastery](https://github.com/PavelGoblin/data-science-mastery) | Data Science / ML | Jupyter / Python |
-| [ml-for-beginners-bangla](https://github.com/PavelGoblin/ml-for-beginners-bangla) | ML in Bengali | Jupyter / Python |
-| [ml-bangla](https://github.com/PavelGoblin/ml-bangla) | ML in Bengali | Jupyter |
+| [career-hub](https://github.com/PavelGoblin/career-hub) | AI/ML, Cyber, IELTS | Python / Jupyter / HTML |
+| [student-hub](https://github.com/PavelGoblin/student-hub) | HSC ICT, Programming | Python / C / HTML / SQL |
 | [Monster-Python](https://github.com/PavelGoblin/Monster-Python) | Python A-Z | Python |
-| [perfect_C](https://github.com/PavelGoblin/perfect_C) | C Programming | C / HTML |
 | [Data-Structures-Algorithms](https://github.com/PavelGoblin/Data-Structures-Algorithms) | DSA | JavaScript |
-| [ielts-mastery-pro](https://github.com/PavelGoblin/ielts-mastery-pro) | IELTS Prep | HTML |
-| [sql-hsc](https://github.com/PavelGoblin/sql-hsc) | SQL Database | SQL |
 
 </details>
 
