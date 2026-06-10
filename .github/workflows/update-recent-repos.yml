@@ -30,14 +30,14 @@ jobs:
             cutoff.setDate(cutoff.getDate() - 30);
 
             const isMLorPython = (r) => {
-              const name = (r.name || '').toLowerCase();
+              const repoName = (r.name || '').toLowerCase();
               const desc = (r.description || '').toLowerCase();
               const lang = (r.language || '').toLowerCase();
               const topics = (r.topics || []).map(t => t.toLowerCase());
               const keywords = ['python', 'ml', 'machine-learning', 'deep-learning', 'data-science',
                 'ai', 'tensorflow', 'pytorch', 'sklearn', 'nlp', 'jupyter', 'data',
                 'neural', 'model', 'dataset', 'classification', 'regression'];
-              const allText = `${name} ${desc} ${lang} ${topics.join(' ')}`;
+              const allText = `${repoName} ${desc} ${lang} ${topics.join(' ')}`;
               return keywords.some(k => allText.includes(k));
             };
 
@@ -56,7 +56,7 @@ jobs:
 
             top.forEach((r, i) => {
               const desc = (r.description || '').substring(0, 40);
-              const lang = r.language || '';
+              const lang = r.language || 'N/A';
               const badge = isMLorPython(r)
                 ? `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-00FF88?style=flat-square"/>`
                 : `<img src="https://img.shields.io/badge/${encodeURIComponent(lang)}-555?style=flat-square"/>`;
