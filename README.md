@@ -137,42 +137,42 @@ status: OPEN TO COLLAB 🚀
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/presentation"><b>presentation</b></a>
-    <br/><sub>Web Engineering - Cookies & Sessions Int</sub>
-    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-05</sub>
+    <a href="https://github.com/PavelGoblin/career-hub"><b>career-hub</b></a>
+    <br/><sub>AI/ML, Cybersecurity & IELTS - Career-fo</sub>
+    <br/><img src="https://img.shields.io/badge/Jupyter%20Notebook-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-10</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/ielts"><b>ielts</b></a>
-    <br/><sub></sub>
+    <a href="https://github.com/PavelGoblin/student-hub"><b>student-hub</b></a>
+    <br/><sub>HSC ICT & Programming Learning Hub - All</sub>
     <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-02</sub>
+    <br/><sub>2026-06-10</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/cybersecurity-book-bangla"><b>cybersecurity-book-bangla</b></a>
-    <br/><sub>সাইবার নিরাপত্তা: শূন্য থেকে চাকরি — একট</sub>
+    <a href="https://github.com/PavelGoblin/portfolio"><b>portfolio</b></a>
+    <br/><sub>Personal portfolio website</sub>
     <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-01</sub>
+    <br/><sub>2026-05-27</sub>
   </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/bangla-cyber"><b>bangla-cyber</b></a>
-    <br/><sub></sub>
-    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-31</sub>
+    <a href="https://github.com/PavelGoblin/spotify-clone"><b>spotify-clone</b></a>
+    <br/><sub>Spotify landing page clone using HTML & </sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-05-27</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/secforge-toolkit"><b>secforge-toolkit</b></a>
-    <br/><sub></sub>
-    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-31</sub>
+    <a href="https://github.com/PavelGoblin/Facebook-HTML-CSS-main"><b>Facebook-HTML-CSS-main</b></a>
+    <br/><sub>Facebook login page clone using HTML & C</sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-05-27</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/secforge"><b>secforge</b></a>
-    <br/><sub></sub>
-    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-31</sub>
+    <a href="https://github.com/PavelGoblin/Tea-House"><b>Tea-House</b></a>
+    <br/><sub>Tea House - a simple tea shop website</sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-05-27</sub>
   </td>
 </tr>
 </table>
