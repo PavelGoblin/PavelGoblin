@@ -137,6 +137,12 @@ status: OPEN TO COLLAB 🚀
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/all-projects"><b>all-projects</b></a>
+    <br/><sub>Combined repository of mono-project, ody</sub>
+    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-14</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://github.com/PavelGoblin/career-hub"><b>career-hub</b></a>
     <br/><sub>AI/ML, Cybersecurity & IELTS - Career-fo</sub>
     <br/><img src="https://img.shields.io/badge/Jupyter%20Notebook-00FF88?style=flat-square"/>
@@ -148,31 +154,19 @@ status: OPEN TO COLLAB 🚀
     <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
     <br/><sub>2026-06-10</sub>
   </td>
-  <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/portfolio"><b>portfolio</b></a>
-    <br/><sub>Personal portfolio website</sub>
-    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-27</sub>
-  </td>
 </tr>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/spotify-clone"><b>spotify-clone</b></a>
-    <br/><sub>Spotify landing page clone using HTML & </sub>
-    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-27</sub>
+    <a href="https://github.com/PavelGoblin/PavelGoblin"><b>PavelGoblin</b></a>
+    <br/><sub>PavelGoblin profile README - about me an</sub>
+    <br/><img src="https://img.shields.io/badge/N%2FA-555?style=flat-square"/>
+    <br/><sub>2026-06-14</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/Facebook-HTML-CSS-main"><b>Facebook-HTML-CSS-main</b></a>
-    <br/><sub>Facebook login page clone using HTML & C</sub>
-    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-27</sub>
-  </td>
-  <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/Tea-House"><b>Tea-House</b></a>
-    <br/><sub>Tea House - a simple tea shop website</sub>
-    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-05-27</sub>
+    <a href="https://github.com/PavelGoblin/academics"><b>academics</b></a>
+    <br/><sub>University coursework, labs, assignments</sub>
+    <br/><img src="https://img.shields.io/badge/JavaScript-555?style=flat-square"/>
+    <br/><sub>2026-06-12</sub>
   </td>
 </tr>
 </table>
