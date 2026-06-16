@@ -19,6 +19,8 @@
 
 ---
 
+### About Me
+
 ```yaml
 $ cat /etc/profile
 
@@ -26,6 +28,7 @@ name: Ibrahim Pavel
 alias: Pavelyon
 role: AI / ML Engineer
 location: Dhaka, Bangladesh
+education: University Student
 
 specialties:
   - Machine & Deep Learning
@@ -39,6 +42,8 @@ status: OPEN TO COLLAB 🚀
 ```
 
 ---
+
+## Featured Projects
 
 ### $ ls ~/projects --featured
 
@@ -54,7 +59,7 @@ status: OPEN TO COLLAB 🚀
       <p align="center">Data Science • ML • Cybersecurity • IELTS</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/career-hub">
-          <img src="https://img.shields.io/badge/>_VIEW_HUB-00FF88?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/VIEW-HUB-00FF88?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -68,7 +73,7 @@ status: OPEN TO COLLAB 🚀
       <p align="center">HSC ICT • Programming • Web</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/student-hub">
-          <img src="https://img.shields.io/badge/>_VIEW_HUB-FFB800?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/VIEW-HUB-FFB800?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -82,7 +87,7 @@ status: OPEN TO COLLAB 🚀
       <p align="center">University • OOP • DSA • Distributed Systems • Graphics</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/academics">
-          <img src="https://img.shields.io/badge/>_VIEW_HUB-FF4444?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/VIEW-HUB-FF4444?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -97,7 +102,7 @@ status: OPEN TO COLLAB 🚀
       <p align="center">Machine Learning in Bengali Language</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/career-hub/tree/main/ai-ml/ml-for-beginners-bangla">
-          <img src="https://img.shields.io/badge/>_VIEW_HUB-FFB800?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/VIEW-HUB-FFB800?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -110,7 +115,7 @@ status: OPEN TO COLLAB 🚀
       <p align="center">Comprehensive Python Learning Journey</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/Monster-Python">
-          <img src="https://img.shields.io/badge/>_VIEW_REPO-3776AB?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/VIEW-REPO-3776AB?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
@@ -123,13 +128,14 @@ status: OPEN TO COLLAB 🚀
       <p align="center">Computer Graphics with OpenGL & C++</p>
       <p align="center">
         <a href="https://github.com/PavelGoblin/academics/tree/main/computer-graphics">
-          <img src="https://img.shields.io/badge/>_VIEW_HUB-00599C?style=for-the-badge&logo=github&logoColor=black" />
+          <img src="https://img.shields.io/badge/VIEW-HUB-00599C?style=for-the-badge&logo=github&logoColor=black" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 
+---
 
 ### $ echo "Recently Active (last 30 days)"
 
@@ -173,15 +179,18 @@ status: OPEN TO COLLAB 🚀
 <!--RECENT_REPOS_END-->
 
 ---
-### $ echo "Currently Building""
+
+### $ echo "Currently Building"
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_AI_Agent_Security_Auditor-In_Progress-00FF88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_ML_in_Bangla_Series-Active-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯_Data_Science_Mastery-Expanding-FFB800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agent_Security_Auditor-In_Progress-00FF88?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ML_in_Bangla_Series-Active-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science_Mastery-Expanding-FFB800?style=for-the-badge" />
 </p>
 
 ---
+
+## Tech Stack
 
 ### $ neofetch --tech
 
@@ -242,6 +251,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 
 ---
 
+## GitHub Stats
+
 ### $ curl api.github.com/users/PavelGoblin/stats
 
 <p align="center">
@@ -282,6 +293,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 
 ---
 
+## Connect
+
 ### $ ss -tulpn | grep connect
 
 <p align="center">
@@ -299,6 +312,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 
 ---
 
+## Contribution Graph
+
 ### $ systemctl status contribution-grid
 
 <p align="center">
@@ -310,6 +325,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 </p>
 
 ---
+
+## Learning Journey
 
 ### $ ls ~/learning
 
