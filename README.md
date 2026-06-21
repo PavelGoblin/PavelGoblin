@@ -146,7 +146,7 @@ status: OPEN TO COLLAB 🚀
     <a href="https://github.com/PavelGoblin/academics"><b>academics</b></a>
     <br/><sub>University coursework, labs, assignments</sub>
     <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-19</sub>
+    <br/><sub>2026-06-20</sub>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/PavelGoblin/all-projects"><b>all-projects</b></a>
@@ -172,7 +172,7 @@ status: OPEN TO COLLAB 🚀
     <a href="https://github.com/PavelGoblin/PavelGoblin"><b>PavelGoblin</b></a>
     <br/><sub>PavelGoblin profile README - about me an</sub>
     <br/><img src="https://img.shields.io/badge/N%2FA-555?style=flat-square"/>
-    <br/><sub>2026-06-19</sub>
+    <br/><sub>2026-06-20</sub>
   </td>
 </tr>
 </table>
