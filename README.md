@@ -269,7 +269,8 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0"]
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PavelGoblin&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="80%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PavelGoblin&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true&rank_icon=percentile" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelGoblin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF" width="49%" />
 </p>
 
 ---
