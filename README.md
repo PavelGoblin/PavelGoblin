@@ -143,22 +143,22 @@ status: OPEN TO COLLAB 🚀
 <table>
 <tr>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/student-hub"><b>student-hub</b></a>
-    <br/><sub>HSC ICT & Programming Learning Hub - All</sub>
-    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-22</sub>
+    <a href="https://github.com/PavelGoblin/all-projects"><b>all-projects</b></a>
+    <br/><sub>Combined repository of mono-project, ody</sub>
+    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-26</sub>
   </td>
   <td align="center" width="33%">
     <a href="https://github.com/PavelGoblin/academics"><b>academics</b></a>
     <br/><sub>University coursework, labs, assignments</sub>
     <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-20</sub>
+    <br/><sub>2026-06-26</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/all-projects"><b>all-projects</b></a>
-    <br/><sub>Combined repository of mono-project, ody</sub>
-    <br/><img src="https://img.shields.io/badge/Python-00FF88?style=flat-square"/>
-    <br/><sub>2026-06-14</sub>
+    <a href="https://github.com/PavelGoblin/student-hub"><b>student-hub</b></a>
+    <br/><sub>HSC ICT & Programming Learning Hub - All</sub>
+    <br/><img src="https://img.shields.io/badge/HTML-00FF88?style=flat-square"/>
+    <br/><sub>2026-06-22</sub>
   </td>
 </tr>
 <tr>
@@ -172,7 +172,7 @@ status: OPEN TO COLLAB 🚀
     <a href="https://github.com/PavelGoblin/PavelGoblin"><b>PavelGoblin</b></a>
     <br/><sub>PavelGoblin profile README - about me an</sub>
     <br/><img src="https://img.shields.io/badge/N%2FA-555?style=flat-square"/>
-    <br/><sub>2026-06-25</sub>
+    <br/><sub>2026-06-26</sub>
   </td>
 </tr>
 </table>
