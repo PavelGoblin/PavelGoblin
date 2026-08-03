@@ -149,16 +149,10 @@ status: OPEN TO COLLAB 🚀
     <br/><sub>2026-07-20</sub>
   </td>
   <td align="center" width="33%">
-    <a href="https://github.com/PavelGoblin/G0DM0D3-main"><b>G0DM0D3-main</b></a>
-    <br/><sub>G0DM0D3 - Liberated AI Chat Interface fo</sub>
-    <br/><img src="https://img.shields.io/badge/TypeScript-00FF88?style=flat-square"/>
-    <br/><sub>2026-07-03</sub>
-  </td>
-  <td align="center" width="33%">
     <a href="https://github.com/PavelGoblin/PavelGoblin"><b>PavelGoblin</b></a>
     <br/><sub>PavelGoblin profile README - about me an</sub>
     <br/><img src="https://img.shields.io/badge/N%2FA-555?style=flat-square"/>
-    <br/><sub>2026-08-01</sub>
+    <br/><sub>2026-08-02</sub>
   </td>
 </tr>
 </table>
