@@ -143,10 +143,16 @@ status: OPEN TO COLLAB 🚀
 <table>
 <tr>
   <td align="center" width="33%">
+    <a href="https://github.com/PavelGoblin/career-hub"><b>career-hub</b></a>
+    <br/><sub>AI/ML, Cybersecurity & IELTS - Career-fo</sub>
+    <br/><img src="https://img.shields.io/badge/Jupyter%20Notebook-00FF88?style=flat-square"/>
+    <br/><sub>2026-09-04</sub>
+  </td>
+  <td align="center" width="33%">
     <a href="https://github.com/PavelGoblin/PavelGoblin"><b>PavelGoblin</b></a>
     <br/><sub>PavelGoblin profile README - about me an</sub>
     <br/><img src="https://img.shields.io/badge/N%2FA-555?style=flat-square"/>
-    <br/><sub>2026-09-03</sub>
+    <br/><sub>2026-09-04</sub>
   </td>
 </tr>
 </table>
